@@ -1,0 +1,25 @@
+{
+  "items": {
+    "teauEKzn": {
+      "file": "teauEKzn.png",
+      "cfg": {
+        "surah_number": 10,
+        "start_verse": 89,
+        "num_verses": 5,
+        "width": 1920,
+        "fixed_height": 200,
+        "bg_color": "#ffe8cb",
+        "ayah_read_color": "#000000",
+        "ayah_color": "#058e22",
+        "logo_path": "logos/hod.png",
+        "logo_width": 180,
+        "logo_margin": 0,
+        "font_size": 46,
+        "line_height_px": 75,
+        "padding_ratio": 0.06,
+        "uthman_hafs_font_path": "Uthmanic.otf",
+        "combined_txt_out": "text1.txt"
+      }
+    }
+  }
+}
